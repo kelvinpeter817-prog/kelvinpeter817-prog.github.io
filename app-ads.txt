@@ -1,1 +1,11 @@
+ Google AdMob
 google.com, pub-1452933354750985, DIRECT, f08c47fec0942fa0
+
+ Pangle (TikTok)
+pangle.io, 8814943, DIRECT
+
+ Unity Ads
+unityads.com, 6096576, DIRECT
+
+ ironSource
+ironsrc.com, 261c59bb5, DIRECT
